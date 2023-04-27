@@ -1,0 +1,19 @@
+{
+  "name": "devops",
+  "version": "1.0.0",
+  "description": "introduction to davops",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --detectOpenHandlist",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0",
+    "supertest": "^6.3.3"
+  }
+}
