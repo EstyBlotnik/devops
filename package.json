@@ -15,5 +15,16 @@
   "devDependencies": {
     "jest": "^29.5.0",
     "supertest": "^6.3.3"
-  }
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EstyBlotnik/devops.git"
+  },
+  "bugs": {
+    "url": "https://github.com/EstyBlotnik/devops/issues"
+  },
+  "homepage": "https://github.com/EstyBlotnik/devops#readme"
 }
