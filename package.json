@@ -4,7 +4,7 @@
   "description": "introduction to davops",
   "main": "index.js",
   "scripts": {
-    "test": "jest --detectOpenHandlist",
+    "test": "jest --detectOpenHandles",
     "start": "node index.js"
   },
   "author": "",
