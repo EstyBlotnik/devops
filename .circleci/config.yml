@@ -14,12 +14,11 @@ jobs:
   test:
     executor: my-exe
     steps:
-      -checkout
-      -run: npm rebuild
-      -run: npm test
+      - checkout
+      - run: npm rebuild
+      - run: npm test
 
 workflows:
     my-workflow:
       jobs:
-        -test
-        
+        - test
