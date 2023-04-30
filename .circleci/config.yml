@@ -15,7 +15,7 @@ jobs:
     executor: my-exe
     steps:
       - checkout
-      - run: nmp install
+      - run: npm install
       - run: npm rebuild
       - run: npm test
 
