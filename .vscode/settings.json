@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "undefined/subscriptions/225fadf2-c8ca-4e56-b23b-8c9d4f6cc7e3/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/EstyBl",
+    "appService.deploySubpath": "."
+}
